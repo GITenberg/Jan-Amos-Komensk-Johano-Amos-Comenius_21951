@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24989
     wikipedia: http://eo.wikipedia.org/wiki/Jan_V%C3%A1clav_Nov%C3%A1k
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21951#Jan-Amos-Komensk-Johano-Amos-Comenius
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2007-06-27'
 gutenberg_type: Text
