@@ -1,0 +1,31 @@
+_repo: Jan-Amos-Komensk-Johano-Amos-Comenius_21951
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Novák, Jan Václav
+    alias: Novak, Jan Vaclav
+    birthdate: 1853
+    deathdate: 1920
+    gutenberg_agent_id: '24989'
+    url: http://www.gutenberg.org/2009/agents/24989
+    wikipedia: http://eo.wikipedia.org/wiki/Jan_V%C3%A1clav_Nov%C3%A1k
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2007-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21951'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Comenius, Johann Amos, 1592-1670'
+title: 'Jan Amos Komenský
+
+  Johano Amos Comenius'
+url: http://www.gutenberg.org/ebooks/21951
